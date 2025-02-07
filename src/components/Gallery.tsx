@@ -17,13 +17,13 @@ interface Photo {
 
 const categoryDescriptions: Record<string, string> = {
   Todos:
-    "Explora mi colección completa de fotografías, desde retratos íntimos hasta paisajes impresionantes. Cada imagen cuenta una historia única y especial.",
+    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eos voluptas nisi animi nulla sapiente eveniet minima deleniti excepturi dolor.",
   Postales:
-    "Capturo la esencia y personalidad de cada persona. Me especializo en crear un ambiente cómodo donde las emociones naturales florezcan frente a la cámara.",
+    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eos voluptas nisi animi nulla sapiente eveniet minima deleniti excepturi dolor.",
   "Blanco y Negro":
-    "Documento los momentos más especiales de tu día. Desde las miradas cómplices hasta las celebraciones más emotivas, cada detalle quedará inmortalizado.",
+    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eos voluptas nisi animi nulla sapiente eveniet minima deleniti excepturi dolor.",
   Randoms:
-    "La naturaleza nos regala escenas maravillosas. A través de mi lente, busco transmitir la paz y la grandeza de los paisajes que nos rodean.",
+    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eos voluptas nisi animi nulla sapiente eveniet minima deleniti excepturi dolor.",
 }
 
 const photos: Photo[] = [
