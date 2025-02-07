@@ -7,8 +7,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-bold mb-4 text-[#87CEEB]">Sofia Victoria</h3>
-            <p className="text-gray-600">Fotógrafa Profesional</p>
-            <p className="mt-4 text-sm text-gray-500">Capturando momentos, creando recuerdos desde 2020</p>
+            <p className="text-gray-600">Estudiante de Fotografía</p>
+            <p className="mt-4 text-sm text-gray-500">Capturando momentos, creando recuerdos hermosos</p>
           </div>
           <div className="text-center">
             <h4 className="text-xl font-semibold mb-4 text-gray-800">Contacto</h4>
@@ -25,7 +25,7 @@ export default function Footer() {
                 +34 123 456 789
               </a>
             </p>
-            <p className="text-gray-600">Buenos Aires, Argentina</p>
+            <p className="text-gray-600">Tucumán, Argentina</p>
           </div>
           <div className="text-center md:text-right">
             <h4 className="text-xl font-semibold mb-4 text-gray-800">Sígueme</h4>
