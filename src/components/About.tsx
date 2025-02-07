@@ -26,7 +26,7 @@ export default function AboutSection() {
       // Background color transition
       gsap.fromTo(
         bg,
-        { backgroundColor: "rgba(255, 255, 255, 1)" },
+        { backgroundColor: "rgba(135, 206, 235, 0.1)" },
         {
           backgroundColor: "rgba(135, 206, 235, 0.1)",
           scrollTrigger: {
@@ -119,13 +119,10 @@ export default function AboutSection() {
           <div className="space-y-8">
             <div ref={textRef} className="space-y-6">
               <p className=" text-xl text-gray-800 leading-relaxed">
-                Hola, soy Sofia. Mi pasión por la
-                fotografía comenzó cuando era niña y recibí mi primera cámara como regalo de cumpleaños.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero itaque, quasi quaerat modi voluptatem velit nesciunt commodi cupiditate quod reprehenderit.
               </p>
               <p className="text-xl text-gray-800 leading-relaxed">
-                Desde entonces, he dedicado mi vida a capturar momentos especiales y contar historias a través de mis
-                imágenes. Me especializo en fotografía de retratos, bodas y paisajes, siempre buscando la belleza en lo
-                cotidiano y lo extraordinario.
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum minus neque ipsum, deserunt pariatur unde iure dolorum sunt quas minima natus facilis voluptatem sed, sint sapiente, quod consequuntur amet quasi. Expedita corporis praesentium sed incidunt sunt, cupiditate vel obcaecati ex?
               </p>
             </div>
           </div>
